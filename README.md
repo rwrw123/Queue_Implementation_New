@@ -7,7 +7,7 @@
 - Custom Queue Implementation:
   A basic yet powerful FIFO (First In, First Out) queue to manage health alerts efficiently.
 - Health Measurement Alerts:
-  Automatic generation of alerts for measurements like blood pressure, temperature, and glucose levels that are outside the normal range.
+  Alerts are automatically generated for measurements like blood pressure, temperature, and glucose levels that are outside the normal range.
 - Flask API Integration:
   Endpoints for adding users, registering devices, submitting patient measurements, and processing alerts.
 - MongoDB database:
